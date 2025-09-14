@@ -96,4 +96,4 @@ Total de figuras criadas: 2
 - Formatação adequada das saídas
 - Funcionamento correto do contador de figuras
 
-
+# NÃO ESQUEÇA DE COMMITAR SEUS ARQUIVOS NO GITHUB! NÃO SUBMETIDOS EM HORÁRIO DE AULA NÃO SERÃO CONSIDERADOS
